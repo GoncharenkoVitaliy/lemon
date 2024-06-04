@@ -1,6 +1,6 @@
 {
   "name": "limon",
-  "homepage": "https://goncharenkovitaliy.github.io/lemon/",
+  "homepage": "git@github.com:GoncharenkoVitaliy/lemon.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
