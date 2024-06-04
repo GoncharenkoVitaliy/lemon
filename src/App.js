@@ -24,4 +24,3 @@ function App() {
 }
 
 export default App;
-//19-42  ---  20-10
